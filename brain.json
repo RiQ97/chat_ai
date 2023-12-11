@@ -1,0 +1,40 @@
+{
+  "query": [
+    {
+      "query": "hello",
+      "reply": "hello, how can I help u today?"
+    },
+    {
+      "query": "hi",
+      "reply": "hi, how can I help u today?"
+    },
+    {
+      "query": "bye",
+      "reply": "Happy to help.. have a good day : ) "
+    },
+    {
+      "query": "hola",
+      "reply": "Hola, how can I help u today?"
+    },
+    {
+      "query": "kpmg",
+      "reply": "KPMG is a global network of professional firms providing Audit, Tax and Advisory services.. Thanks for asking : )"
+    },
+    {
+      "query": "ritik",
+      "reply": "He is my developer. Thanks for asking : )"
+    },
+    {
+      "query": "yellow",
+      "reply": "That's a color !"
+    },
+    {
+      "query": "yellow is a color ?",
+      "reply": "Yes, it is a color."
+    },
+    {
+      "query": "what about green?",
+      "reply": "Green is a color."
+    }
+  ]
+}
